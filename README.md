@@ -13,7 +13,7 @@
 
 This project is an interactive web application built with **Python** and **Streamlit** to visualize official FIFA player data from **2023**, sourced from Kaggle's *FIFA 23 Official Dataset*.
 
-Through a clean and responsive interface, users can explore detailed player information such as photos, contract value, physical stats, and more — with filtering options by club and player.
+Through a clean and responsive interface, users can explore detailed player information such as photos, contract value, physical stats, etc.
 
 ## 🚀 Key Features
 
@@ -27,4 +27,3 @@ Through a clean and responsive interface, users can explore detailed player info
 
 - **Optimized Performance**: Smart caching reduces data reload time and improves responsiveness.
 - **Access Control**: Navigation flow ensures users start from the homepage before accessing other sections.
-- **Clean Codebase**: Built with simplicity in mind, leveraging Streamlit’s intuitive components.
