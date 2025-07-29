@@ -5,7 +5,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)](https://pandas.pydata.org/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://www.kaggle.com/)
 
-🔗 **Live Demo**: [FIFA Official Dataset Viewer](https://fifa-dash-app.streamlit.app/)
+🔗 **Live Demo**: <a href="https://fifa-dash-app.streamlit.app/" target="_blank">FIFA Official Dataset Viewer</a>
 
 ---
 
